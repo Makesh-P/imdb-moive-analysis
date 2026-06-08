@@ -82,7 +82,7 @@ The dashboard is split into **2 pages:**
 ## 👤 Author
 
 **Makesh**
-- 🔗 [LinkedIn](linkedin.com/in/makesh-p)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/makesh-p)
 - 🐙 [GitHub](https://github.com/Makesh-P)
 
 ---
