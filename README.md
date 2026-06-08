@@ -82,8 +82,8 @@ The dashboard is split into **2 pages:**
 ## 👤 Author
 
 **Makesh**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
-- 🐙 [GitHub](https://github.com/your-github-username)
+- 🔗 [LinkedIn](linkedin.com/in/makesh-p)
+- 🐙 [GitHub](https://github.com/Makesh-P)
 
 ---
 
